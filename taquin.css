@@ -1,0 +1,45 @@
+h1
+{
+    font-size:5em;
+    text-align: center;
+}
+
+#pg
+{
+    color: blue;
+    font-size:3em;
+    text-align: center;
+}
+
+body
+{
+    background-color:'white';
+    margin : auto
+}
+
+#tab
+{
+    border-width:3px; 
+    border-style:solid; 
+    border-color:blue;
+    margin:auto
+
+    
+}
+
+td
+{
+    font-size:5em;
+    background-color:white;  
+    border-width:1px;
+    border-style:solid; 
+    border-color:blue;
+    height:100%;
+}
+
+#mydiv
+{
+    display: flex;
+    flex-direction: column;
+    
+}
